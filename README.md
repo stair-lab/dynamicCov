@@ -11,11 +11,11 @@
 
 ## Genral Info
 
-This repo is the implementation of the paper [[1]](#1) along with the competing methods listed in Table 1 in [[1]] (#1). Please check Table 1 for details.
+This repo is the implementation of the paper [[1]](#1) along with the competing methods listed in Table 1 in [[1]](#1). Please check Table 1 for details.
 
 ## Requirements
-Install the [ssm package](https://github.com/slinderman/ssm) to run the comppeting methods.
-it's recommended to install [Anaconda](https://docs.anaconda.com/anaconda/install/) and create a new environment (python>=3.7) to run this code.
+Install the [ssm package](https://github.com/slinderman/ssm) to run comppeting methods.
+It is recommended to install [Anaconda](https://docs.anaconda.com/anaconda/install/) and create a new environment (python>=3.7) to run this code.
 
 ```bash
 conda create --name snscov python=3.7
