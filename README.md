@@ -35,7 +35,7 @@ Some simulation examples.
  
  
 ```bash
-cd tests/simulation1
+cd examples/simulation1
 python simulation1.py 
 ```
 Models are stored in folder `./results` and plots are stored in `./figures`. Specify the waveform by using `--waveform`
@@ -44,21 +44,21 @@ Models are stored in folder `./results` and plots are stored in `./figures`. Spe
 
 
 ```bash
-cd tests/comparison1
+cd examples/comparison1
 python compare_all.py
 ```
 
 Test different number of test subjects by running the follow bash file.
 Select the waveform (sine, square, mixing) by changing `--waveform` in `compare.sh`
 ```bash
-cd tests/comparison1
+cd examples/comparison1
 bash compare.sh
 ```
 
 
 3. Run Simulation 3. Comparison with other mehtods (high-dimensional data)
 ```bash
-cd tests/comparison2
+cd examples/comparison2
 python test_large_scale.py
 ```
 
