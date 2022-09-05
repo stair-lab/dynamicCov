@@ -71,6 +71,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## References
 <a id="1">[1]</a> 
-Tsai, K., Kolar, M., & Koyejo, O. (2020). 
-A Nonconvex Framework for Structured Dynamic Covariance Recovery. 
-arXiv preprint arXiv:2011.05601.
+Tsai, K., Kolar, M., & Koyejo, O. (2022). A Nonconvex Framework for Structured Dynamic Covariance Recovery. Journal of Machine Learning Research, 23(200), 1-91.
