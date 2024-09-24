@@ -72,3 +72,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## References
 <a id="1">[1]</a> 
 Tsai, K., Kolar, M., & Koyejo, O. (2022). A Nonconvex Framework for Structured Dynamic Covariance Recovery. Journal of Machine Learning Research, 23(200), 1-91.
+
+For citing the work, please use the following metadata
+```bibtex
+@article{tsai2022nonconvex,
+  title={A nonconvex framework for structured dynamic covariance recovery},
+  author={Tsai, Katherine and Kolar, Mladen and Koyejo, Oluwasanmi},
+  journal={Journal of machine learning research},
+  volume={23},
+  number={200},
+  pages={1--91},
+  year={2022}
+}
+```
